@@ -2,6 +2,10 @@
 
 This is a simple calculator project created using HTML, CSS, and JavaScript.
 
+## Live Demo
+
+You can view the live version of the calculator [here](https://rohitmukkala.github.io/Calculator/).
+
 ## Features
 
 - Basic arithmetic operations: addition, subtraction, multiplication, and division.
